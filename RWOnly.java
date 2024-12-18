@@ -2,13 +2,13 @@ package Spring.package1;
 
 public class RWOnly {
     
-    private int num;
+    private string name;
 
-    public void setter(int val){
-        this.num= val;
+    public void setter(string val){
+        this.name= val;
     }
 
-    public int getter(){
-        return num;
+    public string getter(){
+        return name;
     }
 }
