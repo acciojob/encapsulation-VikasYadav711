@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
         
         RWOnly obj= new RWOnly();
-        obj.num=10;
-        System.out.println(num);
+        obj.setName("Vikas");
+        System.out.println(obj.getName();;
     }
     
 
