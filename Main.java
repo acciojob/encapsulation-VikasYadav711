@@ -1,4 +1,4 @@
-package Spring.package1;
+package com.driver;
 
 public class Main {
 
