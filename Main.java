@@ -6,7 +6,7 @@ public class Main {
         
         RWOnly obj= new RWOnly();
         obj.setName("Vikas");
-        string res= obj.getName();
+        String res= obj.getName();
         System.out.println(res);
     }
     
