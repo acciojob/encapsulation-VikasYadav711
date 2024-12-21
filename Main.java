@@ -1,11 +1,11 @@
-package com.driver;
+package Spring.package1;
 
 public class Main {
 
     public static void main(String[] args) {
         
         RWOnly obj= new RWOnly();
-        obj.setName("Vikas");
+        obj.setName("vikas");
         String res= obj.getName();
         System.out.println(res);
     }
